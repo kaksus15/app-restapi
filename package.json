@@ -1,0 +1,25 @@
+{
+  "name": "app-restapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaksus15/app-restapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs",
+    "reactjs"
+  ],
+  "author": "Sus Hardianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaksus15/app-restapi/issues"
+  },
+  "homepage": "https://github.com/kaksus15/app-restapi#readme"
+}
